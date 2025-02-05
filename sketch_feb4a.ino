@@ -72,9 +72,9 @@ void loop() {
 }
 
 void rotateServo() {
-  servo1.write(90); // Rotate to position
-  delay(1000); // Wait for one second
+  servo1.write(120); // Rotate to position
+  delay(800); // Wait for one second
   servo1.write(0); // Rotate back to initial position
-  delay(1000);
+  delay(500);
 }
 
