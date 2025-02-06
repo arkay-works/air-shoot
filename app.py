@@ -10,7 +10,7 @@ ip_addresses = [
     'http://192.168.0.4/rotate',
     'http://192.168.0.5/rotate',
     'http://192.168.0.6/rotate',
-    #'http://192.168.86.212/rotate'
+    'http://192.168.0.8/rotate'
 ]
 
 @app.route('/')
